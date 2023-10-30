@@ -42,7 +42,7 @@ fetch(
 
 ## Tutorial To Get API KEY
 
-[OpneWeatherMap API KEY]
+[OpenWeatherMap API KEY]
 
 ## Sample Preview
 
